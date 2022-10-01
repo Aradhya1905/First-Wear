@@ -4,10 +4,10 @@ Demo of the website : https://first-wear.netlify.app/
 
 ScreenShots of the website: 
 
-![](./first-step-website/src/assets/first-wear1.png)
+![](./first-step-website/src/assets/first-wear1.PNG)
 
 
-![](./first-step-website/src/assets/first-wear2.png)
+![](./first-step-website/src/assets/first-wear2.PNG)
 
 
 ![](./first-step-website/src/assets/firstwear3.png)
